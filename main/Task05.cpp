@@ -5,16 +5,10 @@ int nextEvenNumb(int number) {
 	{
 		return -1;
 	}
-	else {
-		if (number % 2 == 1) {
-			number++;
-		}
-		else {
-			number += 2;
-		}
-		return number;
+	
+		return (number % 2 == 1 ? number + 1 : number + 2);
 	}
-}
+
 //1000
 int main(void) {
 	/*
@@ -27,7 +21,7 @@ int main(void) {
 	cin >> k;
 	*/
 
-	//cout << nextEvenNumb(345) << endl;
+	cout << nextEvenNumb(345) << endl;
 
 	cout << (nextEvenNumb(345) == 346 ? "Well done!" : "Something was wrong!") << endl;
 	cout << (nextEvenNumb(345) == 347 ? "Well done!" : "Something was wrong!") << endl;

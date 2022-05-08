@@ -13,7 +13,7 @@ int calculateTens(int number) {
 	}
 }
 //1000
-int main(void) {
+//int main(void) {
 	/*
 	int n, k;
 
@@ -26,12 +26,12 @@ int main(void) {
 
 	//cout << calculateTens(1546) << endl;
 
-	cout << (calculateTens(1546) == 4 ? "Well done!" : "Something was wrong!") << endl;
+	//cout << (calculateTens(1546) == 4 ? "Well done!" : "Something was wrong!") << endl;
 	
 	//cout << calculateTens(173) << endl;
 
-	cout << (calculateTens(173) == 7 ? "Well done!" : "Something was wrong!") << endl;
+	//cout << (calculateTens(173) == 7 ? "Well done!" : "Something was wrong!") << endl;
 
 
-	return 0;
-}
+	//return 0;
+//}

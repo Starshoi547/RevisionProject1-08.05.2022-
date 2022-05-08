@@ -10,7 +10,7 @@ int calculateRemainder(int squirrel, int nut) {
 	}
 }
 
-int main(void) {
+/*int main(void) {
 	/*
 	int n, k;
 
@@ -19,7 +19,7 @@ int main(void) {
 
 	cout << "Input number of DEEZ nuts: ";
 	cin >> k;
-	*/
+	/
 
 	cout << (calculateRemainder(3, 14) == 2 ? "Well done!" : "Something was wrong!") << endl;
 	cout << (calculateRemainder(5, 15) == 3 ? "Well done!" : "Something was wrong!") << endl;
@@ -27,3 +27,4 @@ int main(void) {
 
 	return 0;
 }
+*/

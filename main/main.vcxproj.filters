@@ -24,6 +24,9 @@
     <ClCompile Include="Task02.cpp">
       <Filter>Source Files\IntegerNumbers</Filter>
     </ClCompile>
+    <ClCompile Include="Task03.cpp">
+      <Filter>Source Files\IntegerNumbers</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">

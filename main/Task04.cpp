@@ -10,7 +10,7 @@ int calculateSumOfNumb(int number) {
 	}
 }
 //1000
-int main(void) {
+//int main(void) {
 	/*
 	int n, k;
 
@@ -21,10 +21,10 @@ int main(void) {
 	cin >> k;
 	*/
 
-	cout << calculateSumOfNumb(345) << endl;
+	//cout << calculateSumOfNumb(345) << endl;
 
-	cout << (calculateSumOfNumb(345) == 12 ? "Well done!" : "Something was wrong!") << endl;
-	cout << (calculateSumOfNumb(345) == 11 ? "Well done!" : "Something was wrong!") << endl;
+	//cout << (calculateSumOfNumb(345) == 12 ? "Well done!" : "Something was wrong!") << endl;
+	//cout << (calculateSumOfNumb(345) == 11 ? "Well done!" : "Something was wrong!") << endl;
 
-	return 0;
-}
+	//return 0;
+//}
